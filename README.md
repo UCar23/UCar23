@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UCar23
-- 👀 I’m interested in creating an easy way interact with different people
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating an easy way to interact with different people
+- 🌱 I’m currently a website of a software Project, which is a peer-to-peer car rental system
+- 💞️ I’m looking to collaborate with...
 - 📫 How to reach me ...
 
 <!---
